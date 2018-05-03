@@ -1,0 +1,3 @@
+<view class='index' bindtap="handleTap">
+  hello world
+</view>

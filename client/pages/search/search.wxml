@@ -1,0 +1,6 @@
+<view>
+    这是搜索页面
+   <button>
+      按钮
+   </button>
+</view>
